@@ -5,7 +5,7 @@
     "price": "$10.99",
     "stocked": true,
     "name": "Schicka",
-    "image": "https://picsum.photos/id/306/200/300"
+    "image": "https://picsum.photos/id/306/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -14,7 +14,7 @@
     "price": "$5.99",
     "stocked": true,
     "name": "Fré Sonneveld",
-    "image": "https://picsum.photos/id/258/200/300"
+    "image": "https://picsum.photos/id/258/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -23,7 +23,7 @@
     "price": "$59.99",
     "stocked": false,
     "name": "Beto Galetto",
-    "image": "https://picsum.photos/id/199/200/300"
+    "image": "https://picsum.photos/id/199/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -32,7 +32,7 @@
     "price": "$23.99",
     "stocked": true,
     "name": "Good Free Photos",
-    "image": "https://picsum.photos/id/176/200/300"
+    "image": "https://picsum.photos/id/176/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -41,7 +41,7 @@
     "price": "$219.99",
     "stocked": false,
     "name": "Diogo Tavares",
-    "image": "https://picsum.photos/id/203/200/300"
+    "image": "https://picsum.photos/id/203/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -50,7 +50,7 @@
     "price": "$99.99",
     "stocked": true,
     "name": "Alejandro Escamilla",
-    "image": "https://picsum.photos/id/22/200/300"
+    "image": "https://picsum.photos/id/22/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -59,7 +59,7 @@
     "price": "$1.00",
     "stocked": true,
     "name": "Christian Hebell",
-    "image": "https://picsum.photos/id/115/200/300"
+    "image": "https://picsum.photos/id/115/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -68,7 +68,7 @@
     "price": "$3.99",
     "stocked": true,
     "name": "Martin Wessely",
-    "image": "https://picsum.photos/id/210/200/300"
+    "image": "https://picsum.photos/id/210/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   },
   {
@@ -77,8 +77,7 @@
     "price": "$7.99",
     "stocked": true,
     "name": "Keith Misner",
-    "image": "https://picsum.photos/id/307/200/300"
+    "image": "https://picsum.photos/id/307/200/300",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   }
-  
 ]
