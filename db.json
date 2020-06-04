@@ -2,63 +2,54 @@
   "images": [
     {
       "id": 1,
-      "category": "Nature",
       "price": "$10.99",
       "name": "Schicka",
       "image": "https://picsum.photos/id/306/200/300"
     },
     {
       "id": 2,
-      "category": "Nature",
       "price": "$5.99",
       "name": "Fré Sonneveld",
       "image": "https://picsum.photos/id/258/200/300"
     },
     {
       "id": 3,
-      "category": "Nature",
       "price": "$59.99",
       "name": "Beto Galetto",
       "image": "https://picsum.photos/id/199/200/300"
     },
     {
       "id": 4,
-      "category": "Nature",
       "price": "$23.99",
       "name": "Good Free Photos",
       "image": "https://picsum.photos/id/176/200/300"
     },
     {
       "id": 5,
-      "category": "People",
       "price": "$219.99",
       "name": "Diogo Tavares",
       "image": "https://picsum.photos/id/203/200/300"
     },
     {
       "id": 6,
-      "category": "People",
       "price": "$99.99",
       "name": "Alejandro Escamilla",
       "image": "https://picsum.photos/id/22/200/300"
     },
     {
       "id": 7,
-      "category": "Backgrounds",
       "price": "$1.00",
       "name": "Christian Hebell",
       "image": "https://picsum.photos/id/115/200/300"
     },
     {
       "id": 8,
-      "category": "Backgrounds",
       "price": "$3.99",
       "name": "Martin Wessely",
       "image": "https://picsum.photos/id/210/200/300"
     },
     {
       "id": 9,
-      "category": "Backgrounds",
       "price": "$7.99",
       "name": "Keith Misner",
       "image": "https://picsum.photos/id/307/200/300"
